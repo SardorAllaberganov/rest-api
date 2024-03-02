@@ -2,7 +2,7 @@
   "name": "rest-api-node-js",
   "version": "1.0.0",
   "description": "rest-api-node-js",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "devStart": "nodemon server.js",
     "start": "node server.js"
