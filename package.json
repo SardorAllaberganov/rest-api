@@ -2,10 +2,10 @@
   "name": "rest-api-node-js",
   "version": "1.0.0",
   "description": "rest-api-node-js",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "devStart": "nodemon server.js",
-    "start": "node server.js"
+    "devStart": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "Sardor Allaberganov",
   "license": "ISC",
