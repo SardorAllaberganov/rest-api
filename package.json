@@ -4,7 +4,8 @@
   "description": "rest-api-node-js",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "devStart": "nodemon server.js",
+    "start": "node server.js"
   },
   "author": "Sardor Allaberganov",
   "license": "ISC",
